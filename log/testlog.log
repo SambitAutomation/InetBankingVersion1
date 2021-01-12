@@ -1,0 +1,194 @@
+2021-01-07 12:34:12,675 - ebanking -INFO - URL is opened
+2021-01-07 12:34:12,880 - ebanking -INFO - UserName has entered
+2021-01-07 12:34:13,033 - ebanking -INFO - Password has entered
+2021-01-07 12:34:16,353 - ebanking -INFO - Login test Passed
+2021-01-07 15:25:00,334 - ebanking -INFO - URL is opened
+2021-01-07 15:25:00,549 - ebanking -INFO - UserName has entered
+2021-01-07 15:25:00,655 - ebanking -INFO - Password has entered
+2021-01-07 15:25:05,166 - ebanking -INFO - Login test Passed
+2021-01-07 15:25:45,000 - ebanking -INFO - URL is opened
+2021-01-07 15:25:45,207 - ebanking -INFO - UserName has entered
+2021-01-07 15:25:45,315 - ebanking -INFO - Password has entered
+2021-01-07 15:30:12,047 - ebanking -INFO - URL is opened
+2021-01-07 15:30:12,381 - ebanking -INFO - UserName has entered
+2021-01-07 15:30:12,502 - ebanking -INFO - Password has entered
+2021-01-07 15:30:15,904 - ebanking -INFO - Login test Passed
+2021-01-07 15:56:36,599 - ebanking -INFO - URL is opened
+2021-01-07 15:56:36,910 - ebanking -INFO - UserName has entered
+2021-01-07 15:56:37,058 - ebanking -INFO - Password has entered
+2021-01-07 15:56:40,395 - ebanking -INFO - Login test Passed
+2021-01-07 16:21:36,503 - ebanking -INFO - URL is opened
+2021-01-07 16:21:36,804 - ebanking -INFO - UserName has entered
+2021-01-07 16:21:36,916 - ebanking -INFO - Password has entered
+2021-01-07 16:21:40,688 - ebanking -INFO - Login test Passed
+2021-01-07 16:23:29,414 - ebanking -INFO - URL is opened
+2021-01-07 16:23:29,556 - ebanking -INFO - UserName has entered
+2021-01-07 16:23:29,597 - ebanking -INFO - Password has entered
+2021-01-07 16:23:36,910 - ebanking -INFO - Login test Passed
+2021-01-08 15:23:26,899 - ebanking -INFO - URL is opened
+2021-01-08 15:23:27,261 - ebanking -INFO - UserName has entered
+2021-01-08 15:23:27,412 - ebanking -INFO - Password has entered
+2021-01-08 15:23:30,538 - ebanking -INFO - Login test Passed
+2021-01-08 15:41:34,283 - ebanking -INFO - URL is opened
+2021-01-08 15:41:34,466 - ebanking -INFO - UserName has entered
+2021-01-08 15:41:34,588 - ebanking -INFO - Password has entered
+2021-01-08 16:39:43,253 - ebanking -INFO - user name provided
+2021-01-08 16:39:43,428 - ebanking -INFO - password provided
+2021-01-08 16:39:49,614 - ebanking -INFO - user name provided
+2021-01-08 16:39:49,758 - ebanking -INFO - password provided
+2021-01-08 16:39:55,599 - ebanking -INFO - user name provided
+2021-01-08 16:39:55,744 - ebanking -INFO - password provided
+2021-01-08 16:40:01,149 - ebanking -INFO - user name provided
+2021-01-08 16:40:01,301 - ebanking -INFO - password provided
+2021-01-08 16:40:07,058 - ebanking -INFO - user name provided
+2021-01-08 16:40:07,219 - ebanking -INFO - password provided
+2021-01-08 16:48:43,096 - ebanking -INFO - user name provided
+2021-01-08 16:48:43,274 - ebanking -INFO - password provided
+2021-01-08 16:48:49,565 - ebanking -INFO - Login Passed
+2021-01-08 16:51:42,087 - ebanking -INFO - user name provided
+2021-01-08 16:51:42,266 - ebanking -INFO - password provided
+2021-01-08 16:51:47,647 - ebanking -INFO - Login Passed
+2021-01-08 16:53:07,870 - ebanking -INFO - user name provided
+2021-01-08 16:53:08,035 - ebanking -INFO - password provided
+2021-01-08 16:53:13,512 - ebanking -INFO - Login Passed
+2021-01-08 16:57:06,218 - ebanking -INFO - user name provided
+2021-01-08 16:57:06,393 - ebanking -INFO - password provided
+2021-01-08 16:57:12,282 - ebanking -INFO - Login Passed
+2021-01-08 19:31:54,462 - ebanking -INFO - user name provided
+2021-01-08 19:31:54,589 - ebanking -INFO - password provided
+2021-01-08 19:32:00,744 - ebanking -INFO - Login Passed
+2021-01-08 19:33:26,590 - ebanking -INFO - user name provided
+2021-01-08 19:33:26,756 - ebanking -INFO - password provided
+2021-01-08 19:33:33,416 - ebanking -INFO - Login Passed
+2021-01-08 19:34:05,367 - ebanking -INFO - user name provided
+2021-01-08 20:26:14,845 - ebanking -INFO - user name provided
+2021-01-08 20:26:15,025 - ebanking -INFO - password provided
+2021-01-08 20:26:21,007 - ebanking -INFO - Login Passed
+2021-01-08 20:29:11,130 - ebanking -INFO - URL is opened
+2021-01-08 20:29:11,323 - ebanking -INFO - UserName has entered
+2021-01-08 20:29:11,458 - ebanking -INFO - Password has entered
+2021-01-08 20:29:13,815 - ebanking -INFO - Login test Passed
+2021-01-08 21:07:11,566 - ebanking -INFO - UserName has entered
+2021-01-08 21:07:11,735 - ebanking -INFO - Password has entered
+2021-01-08 21:14:17,834 - ebanking -INFO - UserName has entered
+2021-01-08 21:14:17,972 - ebanking -INFO - Password has entered
+2021-01-08 21:14:19,979 - ebanking -INFO - Login button Clicked
+2021-01-08 21:19:19,424 - ebanking -INFO - UserName has entered
+2021-01-08 21:19:19,580 - ebanking -INFO - Password has entered
+2021-01-08 21:19:22,020 - ebanking -INFO - Login button Clicked
+2021-01-08 21:21:24,445 - ebanking -INFO - UserName has entered
+2021-01-08 21:21:24,588 - ebanking -INFO - Password has entered
+2021-01-08 21:21:27,072 - ebanking -INFO - Login button Clicked
+2021-01-08 21:21:30,139 - ebanking -INFO - New  customer link clicked
+2021-01-08 21:21:32,263 - ebanking -INFO - Customer Name has entered
+2021-01-08 21:21:34,336 - ebanking -INFO - Gender has chosen
+2021-01-08 21:21:36,510 - ebanking -INFO - DOB has entered
+2021-01-08 21:21:38,611 - ebanking -INFO - Address has entered
+2021-01-08 21:21:40,715 - ebanking -INFO - CityName has entered
+2021-01-08 21:21:42,807 - ebanking -INFO - PinCode has entered
+2021-01-08 21:21:44,902 - ebanking -INFO - MobileNumber has entered
+2021-01-08 21:21:47,025 - ebanking -INFO - Emailid has entered
+2021-01-08 21:21:49,120 - ebanking -INFO - Password has entered
+2021-01-08 21:31:02,582 - ebanking -INFO - UserName has entered
+2021-01-08 21:31:02,762 - ebanking -INFO - Password has entered
+2021-01-08 21:31:04,751 - ebanking -INFO - Login button Clicked
+2021-01-08 21:31:07,734 - ebanking -INFO - New  customer link clicked
+2021-01-08 21:31:09,855 - ebanking -INFO - Customer Name has entered
+2021-01-08 21:31:11,931 - ebanking -INFO - Gender has chosen
+2021-01-08 21:31:14,111 - ebanking -INFO - DOB has entered
+2021-01-08 21:31:16,206 - ebanking -INFO - Address has entered
+2021-01-08 21:31:18,313 - ebanking -INFO - CityName has entered
+2021-01-08 21:31:20,406 - ebanking -INFO - PinCode has entered
+2021-01-08 21:31:22,502 - ebanking -INFO - MobileNumber has entered
+2021-01-08 21:31:24,620 - ebanking -INFO - Emailid has entered
+2021-01-08 21:31:26,717 - ebanking -INFO - Password has entered
+2021-01-08 21:31:26,787 - ebanking -INFO - Newcutomer account has entered
+2021-01-08 21:32:12,087 - ebanking -INFO - UserName has entered
+2021-01-08 21:32:12,242 - ebanking -INFO - Password has entered
+2021-01-08 21:32:14,508 - ebanking -INFO - Login button Clicked
+2021-01-08 21:32:17,846 - ebanking -INFO - New  customer link clicked
+2021-01-08 21:32:19,996 - ebanking -INFO - Customer Name has entered
+2021-01-08 21:32:22,078 - ebanking -INFO - Gender has chosen
+2021-01-08 21:32:24,273 - ebanking -INFO - DOB has entered
+2021-01-08 21:32:26,365 - ebanking -INFO - Address has entered
+2021-01-08 21:32:28,474 - ebanking -INFO - CityName has entered
+2021-01-08 21:32:30,568 - ebanking -INFO - PinCode has entered
+2021-01-08 21:32:32,665 - ebanking -INFO - MobileNumber has entered
+2021-01-08 21:32:34,791 - ebanking -INFO - Emailid has entered
+2021-01-08 21:32:36,887 - ebanking -INFO - Password has entered
+2021-01-08 21:32:41,955 - ebanking -INFO - Newcutomer account has entered
+2021-01-08 21:40:09,423 - ebanking -INFO - UserName has entered
+2021-01-08 21:40:09,594 - ebanking -INFO - Password has entered
+2021-01-08 21:40:12,445 - ebanking -INFO - Login button Clicked
+2021-01-08 21:40:16,514 - ebanking -INFO - New  customer link clicked
+2021-01-08 21:40:18,647 - ebanking -INFO - Customer Name has entered
+2021-01-08 21:40:20,716 - ebanking -INFO - Gender has chosen
+2021-01-08 21:40:22,894 - ebanking -INFO - DOB has entered
+2021-01-08 21:40:24,988 - ebanking -INFO - Address has entered
+2021-01-08 21:40:27,091 - ebanking -INFO - CityName has entered
+2021-01-08 21:40:29,196 - ebanking -INFO - PinCode has entered
+2021-01-08 21:40:31,295 - ebanking -INFO - MobileNumber has entered
+2021-01-08 21:40:33,413 - ebanking -INFO - Emailid has entered
+2021-01-08 21:40:35,515 - ebanking -INFO - Password has entered
+2021-01-08 21:40:40,584 - ebanking -INFO - Newcutomer account has entered
+2021-01-08 21:41:29,512 - ebanking -INFO - UserName has entered
+2021-01-08 21:41:29,678 - ebanking -INFO - Password has entered
+2021-01-08 21:41:32,721 - ebanking -INFO - Login button Clicked
+2021-01-08 21:41:35,785 - ebanking -INFO - New  customer link clicked
+2021-01-08 21:41:37,937 - ebanking -INFO - Customer Name has entered
+2021-01-08 21:41:40,008 - ebanking -INFO - Gender has chosen
+2021-01-08 21:41:42,186 - ebanking -INFO - DOB has entered
+2021-01-08 21:41:44,281 - ebanking -INFO - Address has entered
+2021-01-08 21:41:46,379 - ebanking -INFO - CityName has entered
+2021-01-08 21:41:48,472 - ebanking -INFO - PinCode has entered
+2021-01-08 21:41:50,565 - ebanking -INFO - MobileNumber has entered
+2021-01-08 21:41:52,701 - ebanking -INFO - Emailid has entered
+2021-01-08 21:41:54,794 - ebanking -INFO - Password has entered
+2021-01-08 21:41:59,865 - ebanking -INFO - Newcutomer account has entered
+2021-01-08 21:42:31,802 - ebanking -INFO - UserName has entered
+2021-01-08 21:42:31,934 - ebanking -INFO - Password has entered
+2021-01-08 21:42:33,906 - ebanking -INFO - Login button Clicked
+2021-01-08 21:45:50,799 - ebanking -INFO - UserName has entered
+2021-01-08 21:45:51,008 - ebanking -INFO - Password has entered
+2021-01-08 21:45:54,284 - ebanking -INFO - Login button Clicked
+2021-01-08 21:45:58,125 - ebanking -INFO - New  customer link clicked
+2021-01-08 21:46:00,276 - ebanking -INFO - Customer Name has entered
+2021-01-08 21:46:02,346 - ebanking -INFO - Gender has chosen
+2021-01-08 21:46:04,530 - ebanking -INFO - DOB has entered
+2021-01-08 21:46:06,617 - ebanking -INFO - Address has entered
+2021-01-08 21:46:08,743 - ebanking -INFO - CityName has entered
+2021-01-08 21:46:10,831 - ebanking -INFO - StateName has entered
+2021-01-08 21:46:12,925 - ebanking -INFO - PinCode has entered
+2021-01-08 21:46:15,026 - ebanking -INFO - MobileNumber has entered
+2021-01-08 21:46:17,155 - ebanking -INFO - Emailid has entered
+2021-01-08 21:46:19,247 - ebanking -INFO - Password has entered
+2021-01-08 21:46:26,826 - ebanking -INFO - Newcutomer account has entered
+2021-01-09 15:53:19,467 - ebanking -INFO - UserName has entered
+2021-01-09 15:53:19,668 - ebanking -INFO - Password has entered
+2021-01-09 15:53:23,048 - ebanking -INFO - Login button Clicked
+2021-01-09 15:53:26,433 - ebanking -INFO - New  customer link clicked
+2021-01-09 15:53:28,581 - ebanking -INFO - Customer Name has entered
+2021-01-09 15:53:30,664 - ebanking -INFO - Gender has chosen
+2021-01-09 15:53:32,842 - ebanking -INFO - DOB has entered
+2021-01-09 15:53:34,931 - ebanking -INFO - Address has entered
+2021-01-09 15:53:37,033 - ebanking -INFO - CityName has entered
+2021-01-09 15:53:39,133 - ebanking -INFO - StateName has entered
+2021-01-09 15:53:41,243 - ebanking -INFO - PinCode has entered
+2021-01-09 15:53:43,343 - ebanking -INFO - MobileNumber has entered
+2021-01-09 15:53:45,464 - ebanking -INFO - Emailid has entered
+2021-01-09 15:53:47,564 - ebanking -INFO - Password has entered
+2021-01-09 16:14:59,584 - ebanking -INFO - UserName has entered
+2021-01-09 16:14:59,748 - ebanking -INFO - Password has entered
+2021-01-09 16:15:05,819 - ebanking -INFO - Login button Clicked
+2021-01-09 16:15:09,447 - ebanking -INFO - New  customer link clicked
+2021-01-09 16:15:11,591 - ebanking -INFO - Customer Name has entered
+2021-01-09 16:15:13,689 - ebanking -INFO - Gender has chosen
+2021-01-09 16:15:15,873 - ebanking -INFO - DOB has entered
+2021-01-09 16:15:17,966 - ebanking -INFO - Address has entered
+2021-01-09 16:15:20,073 - ebanking -INFO - CityName has entered
+2021-01-09 16:15:22,159 - ebanking -INFO - StateName has entered
+2021-01-09 16:15:24,267 - ebanking -INFO - PinCode has entered
+2021-01-09 16:15:26,374 - ebanking -INFO - MobileNumber has entered
+2021-01-09 16:15:28,502 - ebanking -INFO - Emailid has entered
+2021-01-09 16:15:30,604 - ebanking -INFO - Password has entered
+2021-01-09 16:15:36,540 - ebanking -INFO - Newcutomer account has entered
